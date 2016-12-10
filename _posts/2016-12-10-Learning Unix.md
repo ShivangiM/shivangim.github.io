@@ -15,3 +15,6 @@ I look ahead to formate in much better way and modify it as time and my learning
 
 Reference:
 Unix for Mac OS X from Lynda.com
+
+My upcomming post would be on my experince at GHCI'16!!!
+I am excited to write about it:)

@@ -4,7 +4,7 @@ title: "My Favourite TED talks"
 date: 2017-03-17
 ---
 
-One APP which I would never want to uninstall from my mobile is TED app. TED talks are the one place to go when I want to feel excited, inspired, relaxed. I can explore, discover the range of areas(from stats to arts to cryptography to gender equality and what not), ideas and directions that gave new energy to me. 
+One APP which I would never want to uninstall from my mobile is TED app. TED talks are the one place to go when I want to feel excited, inspired, relaxed. I can explore, discover the range of areas(from stats to photography and art from to cryptography to gender equality and what not), ideas and directions that gave new energy to me. 
 
 This is very compressive list and will keep adding more talks which I find worth watching. 
 
@@ -14,7 +14,7 @@ Here is the list of TED talks I really like:
 
 2) [Let's teach for mastery -- not test scores](https://www.ted.com/talks/sal_khan_let_s_teach_for_mastery_not_test_scores)[ by Sal Khan](https://en.wikipedia.org/wiki/Sal_Khan)
 
-3) [The beauty of human skin in every color](https://www.ted.com/talks/angelica_dass_the_beauty_of_human_skin_in_every_color)[ by http://www.angelicadass.com/]
+3) [The beauty of human skin in every color](https://www.ted.com/talks/angelica_dass_the_beauty_of_human_skin_in_every_color)[ by Angélica Dass](http://www.angelicadass.com/)
 
 4) [Want kids to learn well? Feed them well](https://www.ted.com/talks/sam_kass_want_to_teach_kids_well_feed_them_well)[ by Sam Kass](http://www.troveworldwide.com/who-we-are)
 

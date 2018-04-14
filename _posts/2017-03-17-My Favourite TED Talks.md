@@ -4,8 +4,6 @@ title: "My Favourite TED talks"
 date: 2017-03-17
 ---
 
-One APP which I would never want to uninstall from my mobile is TED app. TED talks are the one place to go when I want to feel excited, inspired, relaxed. I can explore, discover the range of areas(from stats to photography and art from to cryptography to gender equality and what not), ideas and directions that gave new energy to me. 
-
 This is very compressive list and will keep adding more talks which I find worth watching. 
 
 Here is the list of TED talks I really like:

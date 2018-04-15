@@ -3,24 +3,49 @@ I will beifly talk about what is difference between the tensors in Data Science 
 
 Before giving any defination of tensor I would like to build the intution of the meaning tensor with an example.
 
-Say you are being pulled by three people, standing at 90 degrees from each other,  simultaneously(let me name them Charly(x), Jony(y) and Danny(z)). 
+Say you are being pulled by three people, standing at 90 degrees from each other,  simultaneously(let me name them Charly, Johnny and Danny). 
 
 As the result of this your position is being displaced.
 
 Now this displacement can be either characterized by 
+
+For convenience, let me consider Charly to be x-axix, Johnny to be y-axix and Danny to be z-axis.
+
 I)   The difference(d)(something like euclidean) in first position(p -> (x,y,z)) and last position(p'->(x',y',z')), the one as a result of pulling.
 II)  As the vector which describes difference between x' and x, y'and y, and z' and z i.e[dx, dy, dz].
-III) As matrix, 
-          [ dxx, dxy, dxz ]
-          [ dyx, dyy, dyz ]
-          [ dzx, dzy, dzz ]
+III) As matrix,
+               1 .  2 .   3 .        
+        1 . [ dxx, dxy, dxz ]
+        2 . [ dyx, dyy, dyz ]
+        3 . [ dzx, dzy, dzz ]
 
 There are two fundamental questions:
 1) Are these three(or in case more than three) representations necessary? Yes.
 2) Where is tensor? These all are tensors.
 
-(I)  is a scalar and tensor of order 0. Which means no dimensional factor is being considered in it's representation.
-(II) is a vector and tensor of order 1. Which means one dimensional factor is being considered in it's representation i.e. 
+(I)   is a scalar and tensor of order 0. Which means no dimensional factor is being considered in it's representation.
+(II)  is a vector and tensor of order 1. Which means one dimensional factor is being considered in it's representation i.e change w.r.t each of directions.
+(III) is a matrix and tensor of order 2. Which means two dimensional factors are being considered in it's representation i.e change in direction x w.r.t to change in x, y and z and similarly for y, z.
+
+Bringing Charly, Johnny and Danny back; I will say if you are being displaced from p to p', a matrix or tensor of order 2 will characterize:
+Tensor of order 2 will give following information:
+Note: In this case we can have negative value as well
+      11) How much close you moved to Charly by the pulling applied by Charly.
+      12) How much close you moved to Charly by the pulling applied by Johnny.
+      13) How much close you moved to Charly by the pulling applied by Danny.
+      
+      21) How much close you moved to Johnny by pulling applied by Charly.
+      22) How much close you moved to Johnny by the pulling applied by Johnny.
+      33) How much close you moved to Johnny by the pulling applied by Danny.
+      
+      31) How much close you moved to Danny by pulling applied by Charly.
+      32) How much close you moved to Danny by the pulling applied by Johnny.
+      33) How much close you moved to Danny by the pulling applied by Danny.
+      
+
+      
+      
+
 
 
 #---
